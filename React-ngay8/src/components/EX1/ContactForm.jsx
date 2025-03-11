@@ -123,8 +123,8 @@ const ContactForm = () => {
           </div>
 
           <Button
-            type="primary" // Antd button type
-            htmlType="submit" // HTML form submit type
+            type="primary"
+            htmlType="submit" 
             className="!w-full !text-center"
           >
             Submit
